@@ -1,1 +1,1 @@
-# coding-man2man aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccccccccccccccc
+# coding man2man
